@@ -3,4 +3,4 @@ project(boolean-intervals)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(boolean-intervals main.cpp)
+add_executable(boolean-intervals main.cpp BBV.cpp BBV.h)
